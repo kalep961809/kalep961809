@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Karina Perez, with 27 years, from Lima - Peru. 
-- 👀 I’m interested in Data Analytics and I want to be a Data Analyst or programmer soon.
-- 🌱 I’m currently learning Python and I'm part of a Data Analytics BootCamp on TripleTen. I'm looking for jobs (entry level) where I can learn a lot and grow professionally.   
-- 💞️ I’m looking working in my Portfolio, I'm still learning but I'm willing to perform to the best of my ability in my future job. 
+Hey there!
+- 👋 I’m Karina Pérez, 28 years old, from Lima, Peru.
+- 👀 I’m a Data Analytics enthusiast who just finished a Bootcamp, specializing in Python, SQL, and data visualization.
+- 🌱 I’m exploring AI and integrations to take my skills to the next level.
+- 💞️ I love collaborating on tech projects and sharing what I learn with the community.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Cats, kpop and Korean Food.
 
